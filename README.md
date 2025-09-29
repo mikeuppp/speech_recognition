@@ -103,11 +103,6 @@ Explore and build your own thing
 Well Hope you had amazing time practicing Some Speech Recognition Now It's your turn to create something useful out of what you just learned.
 
 
-Give it a star 
---------------
-Did you find this information useful, then give it a star 
-
-
 Credits
 -----------
-All the credits to [kalebu](github.com/mikeuppp) 
+All the credits to [mikeuppp](github.com/mikeuppp) 
